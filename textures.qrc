@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textures/flower.png</file>
+        <file>textures/dog_bump_map.png</file>
+        <file>textures/dog_color_map.png</file>
+        <file>textures/floor_normal_map.png</file>
+        <file>textures/floors/BlueMarblePersian-ColorMap.png</file>
+        <file>textures/floors/BlueMarblePersian-NormalMap.png</file>
+        <file>textures/floors/BlueMarbleSlabs-ColorMap.png</file>
+        <file>textures/floors/BlueMarbleSlabs-NormalMap.png</file>
+        <file>textures/floors/BrownByzantine-ColorMap.png</file>
+        <file>textures/floors/BrownByzantine-NormalMap.png</file>
+        <file>textures/floors/CorrodedTechnoTiles-ColorMap.png</file>
+        <file>textures/floors/CorrodedTechnoTiles-NormalMap.png</file>
+        <file>textures/walls/AlienCarving-ColorMap.png</file>
+        <file>textures/walls/AlienCarving-NormalMap.png</file>
+        <file>textures/walls/AlternatingBrick-ColorMap.png</file>
+        <file>textures/walls/AlternatingBrick-NormalMap.png</file>
+        <file>textures/walls/AncientMayanBlocks-ColorMap.png</file>
+        <file>textures/walls/AncientMayanBlocks-NormalMap.png</file>
+        <file>textures/walls/BubblyBricks-ColorMap.png</file>
+        <file>textures/walls/BubblyBricks-NormalMap.png</file>
+        <file>textures/walls/CarvedSandstone-ColorMap.png</file>
+        <file>textures/walls/CarvedSandstone-NormalMap.png</file>
+        <file>textures/walls/ChippedBricks-ColorMap.png</file>
+        <file>textures/walls/ChippedBricks-NormalMap.png</file>
+        <file>textures/walls/DesertBlushBrick-ColorMap.png</file>
+        <file>textures/walls/DesertBlushBrick-NormalMap.png</file>
+        <file>textures/metals/AluminumTubing-ColorMap.png</file>
+        <file>textures/metals/AluminumTubing-NormalMap.png</file>
+        <file>textures/metals/BronzeAgeArtifact-ColorMap.png</file>
+        <file>textures/metals/BronzeAgeArtifact-NormalMap.png</file>
+        <file>textures/metals/CopperVerdigris-ColorMap.png</file>
+        <file>textures/metals/CopperVerdigris-NormalMap.png</file>
+        <file>textures/metals/PyramidVerdigris-ColorMap.png</file>
+        <file>textures/metals/PyramidVerdigris-NormalMap.png</file>
+        <file>textures/metals/TexturedMetal-ColorMap.png</file>
+        <file>textures/metals/TexturedMetal-NormalMap.png</file>
+        <file>textures/tiger.png</file>
+    </qresource>
+</RCC>
